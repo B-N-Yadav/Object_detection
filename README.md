@@ -1,5 +1,5 @@
 
-#  Image Classification using YOLOv8
+#  Object detection using YOLOv8
 
 This repository contains a complete implementation of an **Object Detection System** using the **YOLOv8 model**, powered by **TensorFlow** and **OpenCV**.
 The project demonstrates how to train, test, and deploy an object detection model on custom or pre-trained datasets.
